@@ -36,9 +36,9 @@ I'm from Wales, i work on way too many projects, i have way too much not enough 
 
 thecurle@github:~$ cat projects.txt
 My most notable projects are probably:
-- (Minecraft Forge)[https://github.com/MinecraftForge], the open-source modding API.
-- (Purpuri)[https://github.com/TheCurle/Purpuri], a Java 7 JVM in C++ written from scratch
-- (Chroma)[https://github.com/TheCurle/Chroma], an amd64 OS in C++ written from scratch
+- <a href="https://github.com/MinecraftForge">Minecraft Forge</a>, the open-source modding API.
+- <a href="https://github.com/TheCurle/Purpuri">Purpuri</a>, a Java 7 JVM in C++ written from scratch
+- <a href="https://github.com/TheCurle/Chroma">Chroma</a>, an amd64 OS in C++ written from scratch
 
 Aside from those, i have a stack of other side-projects that you'll find scattered across the internet.
 
@@ -46,7 +46,7 @@ thecurle@github:~$ cat sysadmin.txt
 You may notice from the layout of this README that i've copy-pasted an ssh session.
 Systems administration is sometimes a necessary evil.
 
-On that note, i host the (Forge Community Wiki)[https://forge.gemwire.uk] and a bunch of other things, but most of them are currently down for maintenance.
+On that note, i host the <a href="https://forge.gemwire.uk">Forge Community Wiki</a> and a bunch of other things, but most of them are currently down for maintenance.
 
 thecurle@github:~$ cat closing.txt
 If you've read this far, i'm surprised. Have a fun fact:
